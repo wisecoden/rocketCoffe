@@ -22,4 +22,4 @@ Projeto construído em conjunto da Rocketseat, consiste em um simples cardápio 
 > Git & Github
 
 ---
-Feito com 💜 por [Wise](https://github.com/wisecoden)
+by [Wisecode](https://github.com/wisecoden)
